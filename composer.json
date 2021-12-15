@@ -1,0 +1,6 @@
+{
+    "name": "sowbiba/translationtesting-dependency",
+    "description": "Submodule for Testing translations",
+    "type": "prestashop-module",
+    "license": "MIT"
+}
