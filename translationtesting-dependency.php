@@ -28,7 +28,7 @@ if (!defined('_PS_VERSION_')) {
     exit;
 }
 
-class Translationtesting extends Module
+class TranslationtestingDependency extends Module
 {
     protected $config_form = false;
 
